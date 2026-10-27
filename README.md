@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/425c7727-205f-40dd-8913-2e77406c8036
+
 # Digital Twin of an Industrial Furnace
 This project implements a digital twin of an industrial furnace using Unity and machine learning. It simulates the furnace operation and visualizes temperature distribution and flow behavior across its different sections.
 
